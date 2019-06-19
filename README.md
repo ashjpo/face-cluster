@@ -2,7 +2,9 @@
 A Multi-Face Clustering Algorithm 
 
 ## 简介
-详细说明[TODO]
+
+## 详细说明[TODO]
+
 N张人脸图片(faceid)  ->  M个顾客(M<=N)  ->  顾客实例(保存)
 
 将同一个人的faceid聚类到一个类中,由于考虑到了会有很多张顾客的图片，不能每一次都把数据库中的所有faceid拿出来聚类。所有我设计了3种模式的聚类方式。
