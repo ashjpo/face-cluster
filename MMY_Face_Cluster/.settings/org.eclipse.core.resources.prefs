@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//function/function_group_faceobj_batch.py=utf-8
+encoding//main/Archive_group.py=utf-8
+encoding//main/Generate_face_similar.py=utf-8
+encoding//main/Generate_group.py=utf-8
+encoding//main/Generate_group_plus.py=utf-8
+encoding//model/faceobj.py=utf-8
+encoding//model/people_group.py=utf-8
+encoding//test/test_call_fun.py=utf-8
+encoding//test/test_in_flw_nolimit.py=utf-8
+encoding//test/test_in_flw_nolimit_batch.py=utf-8
+encoding//tools/facetool.py=utf-8
+encoding//tools/grouptool.py=utf-8
